@@ -21,16 +21,21 @@ Kofax,Beobachten,Plattformen,FALSCH,"<p>Kofax intelligent automation ist eine So
 ShareGate,Beobachten,Tools,FALSCH,"<p>Mit ShareGate können Inhalte der SharePoint Versionen 2003, 2007, 2010, 2013, 2016 und Microsoft 365 zu einer beliebig kompatiblen SharePoint Version migriert werden.</p>"
 Codefy,Ausprobieren,Tools,FALSCH,"<p>Mit der Codefy lassen sich Ausschreibungen, Verträge und andere Dokumente im großen Umfang effizient und gründlich analysieren, prüfen kommentieren, u.v.m.</p>"
 Big & Smart Data,Anwenden,Technologien,FALSCH,"<p>Aufbereitung von Datenmengen, die mit herkömmlichen Methoden der Datenverarbeitung aufgrund ihrer Größe und Komplexität nicht ausgewertet werden können. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Big%20Data.aspx> Mehr... </a> </p>"	
+Neue Verschlüsselungstechnologien,Anwenden,Technologien,FALSCH,"<p>Ansätze, die es ermöglichen Daten zu ver- und entschlüsseln. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Neue%20Verschl%C3%BCsselungstechnologien.aspx> Mehr... </a> </p>"
 IBM Watson,Ausprobieren,Plattformen,WAHR,	
 Microsoft Cortana Suite,Ausprobieren,Plattformen,WAHR,	
 Business Intelligence (BI),Anwenden,Technologien,FALSCH,	
 Data Mining,Anwenden,Methoden,FALSCH,	
+Data Driven Government & Open Data,Anwenden,Methoden,FALSCH,"<p>Open Data beschreibt jegliche Informationen, die zur Nutzung und Weiterverbreitung frei zugänglich sind. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Open%20Data.aspx> Mehr... </a> </p>"
+Anomaly & Fraud Detection,Anwenden,Methoden,FALSCH,"<p>Analyse von Datenbeständen zur Identifikation von Abweichungen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Anomaly%20Detection.aspx> Mehr... </a> </p>"
 Internet of Things (IOT),Ausprobieren,Technologien,WAHR,	
 Smart Data,Anwenden,Methoden,WAHR,	
 Bots,Ausprobieren,Technologien,WAHR,	
+Practical Blockchain,Ausprobieren,Technologien,WAHR,"<p>Fälschungssichere Form der Protokollierung virtueller Transaktionen ohne zentrale Instanz. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Practical%20Blockchain.aspx> Mehr... </a> </p>"
 Chatbot,Ausprobieren,Technologien,WAHR,	
 Deep Learning,Ausprobieren,Technologien,WAHR,	
 Lernende Systeme,Beobachten,Technologien,WAHR,	
+Quantum Computing,Beobachten,Technologien,WAHR,"<p>Quantencomputer nutzen die Gesetze der Quantenmechanik statt der klassischen Physik zur Verarbeitung von Informationen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Quantum%20Computing.aspx> Mehr... </a> </p>"
 Maschine Learning,Ausprobieren,Technologien,WAHR,	
 Natural Language Processing (NLP),Ausprobieren,Technologien,WAHR,	
 Natural Language Understanding (NLU),Ausprobieren,Technologien,WAHR,	
