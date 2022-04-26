@@ -29,6 +29,9 @@ Cloud Computing,Ausprobieren,Technologien,FALSCH,"<p>Anwendungen und Datenverarb
 Edge Computing,Ausprobieren,Technologien,FALSCH,"<p>Teile der Datenverarbeitung findet auf einem lokalen System statt. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Edge%20Computing.aspx> Mehr... </a> </p>"
 Fog Computing,Beobachten,Technologien,WAHR,"<p>Anwendungen und Datenverarbeitung findet z.T. in dezentralen Servernetzwerken statt. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Fog%20Computing.aspx> Mehr... </a> </p>"
 Data Mining,Anwenden,Methoden,FALSCH,	
+Wearables,Anwenden,Tools,FALSCH,"<p>Computer, die direkt am Körper getragen werden. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Wearables.aspx> Mehr... </a> </p>"
+Sprachverarbeitung (NLP),Ausprobieren,Technologien,FALSCH,"<p>Übersetzt natürliche in maschinenlesbare und -interpretierbare Sprache. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Natural%20Language%20Processing.aspx> Mehr... </a> </p>"
+Sprachgenerierung (NLG),Ausprobieren,Technologien,FALSCH,"<p>Erzeugt auf Basis von maschinenlesbaren, strukturierte Daten  natürliche Sprache. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Natural%20Language%20Generation.aspx> Mehr... </a> </p>"
 Digital Twin,Anwenden,Methoden,FALSCH,"<p>Digitale Modelle von realen Objekten.. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Digital%20Twin.aspx> Mehr... </a> </p>"
 Data Driven Government & Open Data,Anwenden,Methoden,FALSCH,"<p>Open Data beschreibt jegliche Informationen, die zur Nutzung und Weiterverbreitung frei zugänglich sind. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Open%20Data.aspx> Mehr... </a> </p>"
 Anomaly & Fraud Detection,Anwenden,Methoden,FALSCH,"<p>Analyse von Datenbeständen zur Identifikation von Abweichungen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Anomaly%20Detection.aspx> Mehr... </a> </p>"
@@ -40,11 +43,15 @@ Chatbot,Ausprobieren,Technologien,WAHR,
 Deep Learning,Ausprobieren,Technologien,WAHR,	
 Lernende Systeme,Beobachten,Technologien,WAHR,	
 Quantum Computing,Beobachten,Technologien,WAHR,"<p>Quantencomputer nutzen die Gesetze der Quantenmechanik statt der klassischen Physik zur Verarbeitung von Informationen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Quantum%20Computing.aspx> Mehr... </a> </p>"
-Maschine Learning,Ausprobieren,Technologien,WAHR,	
+Maschine Learning,Ausprobieren,Technologien,WAHR,"<p>Modell mit dem Maschinen mittels großer, zentraler Datenmengen trainieren, Muster und Gesetzmäßigkeiten in den Daten zu erkennen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Machine%20Learning.aspx> Mehr... </a> </p>"	
+Federated Learning,Ausprobieren,Technologien,WAHR,"<p>Maschinelles Lernen mittels lokaler Daten. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Federated%20Learning.aspx> Mehr... </a> </p>"
+Personal Assistants,Ausprobieren,Technologien,WAHR,"<p>Intelligente Assistenzsysteme, die den Menschen in alltäglichen und bei der Bewältigung von spezifischen Aufgaben unterstützen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Personal%20Assistant.aspx> Mehr... </a> </p>"
+Conversational Bot,Ausprobieren,Technologien,WAHR,"<p>(Chat-)Roboter mit denen über natürliche Sprache, d.h.Texteingabe und gesprochene Sprache, interagiert werden kann. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Conversational%20Bots.aspx> Mehr... </a> </p>"
 Natural Language Processing (NLP),Ausprobieren,Technologien,WAHR,	
 Natural Language Understanding (NLU),Ausprobieren,Technologien,WAHR,	
 Neuronale Netze,Beobachten,Technologien,WAHR,	
-Optical Character Recognition (OCR),Anwenden,Technologien,FALSCH,	
+Optical Character Recognition (OCR),Anwenden,Technologien,FALSCH,"<p>Computergestütztes Erkennen von Zeichen in Bildern und übersetzen in ein maschinenlesbares Format. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar Inhalte/Zeichenerkennung.aspx> Mehr... </a> </p>"	
+Bilderkennung (Computer Vision),Anwenden,Technologien,FALSCH,"<p>Automatisches Erkennen und Klassifizieren von Objekten in Bildern und Videos. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Bilderkennung.aspx> Mehr... </a> </p>"
 Application Programming Interface (API),Ausprobieren,Methoden,FALSCH,	
 Digitalstrategien,Anwenden,Methoden,FALSCH,	
 Prozessdesign und -optimierung,Anwenden,Methoden,FALSCH,	
