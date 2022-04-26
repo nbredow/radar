@@ -25,7 +25,11 @@ Neue Verschlüsselungstechnologien,Anwenden,Technologien,FALSCH,"<p>Ansätze, di
 IBM Watson,Ausprobieren,Plattformen,WAHR,	
 Microsoft Cortana Suite,Ausprobieren,Plattformen,WAHR,	
 Business Intelligence (BI),Anwenden,Technologien,FALSCH,	
+Cloud Computing,Ausprobieren,Technologien,FALSCH,"<p>Anwendungen und Datenverarbeitung in einem zentralen Servernetzwerk. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Cloud%20Computing.aspx> Mehr... </a> </p>"
+Edge Computing,Ausprobieren,Technologien,FALSCH,"<p>Teile der Datenverarbeitung findet auf einem lokalen System statt. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Edge%20Computing.aspx> Mehr... </a> </p>"
+Fog Computing,Beobachten,Technologien,WAHR,"<p>Anwendungen und Datenverarbeitung findet z.T. in dezentralen Servernetzwerken statt. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Fog%20Computing.aspx> Mehr... </a> </p>"
 Data Mining,Anwenden,Methoden,FALSCH,	
+Digital Twin,Anwenden,Methoden,FALSCH,"<p>Digitale Modelle von realen Objekten.. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Digital%20Twin.aspx> Mehr... </a> </p>"
 Data Driven Government & Open Data,Anwenden,Methoden,FALSCH,"<p>Open Data beschreibt jegliche Informationen, die zur Nutzung und Weiterverbreitung frei zugänglich sind. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Open%20Data.aspx> Mehr... </a> </p>"
 Anomaly & Fraud Detection,Anwenden,Methoden,FALSCH,"<p>Analyse von Datenbeständen zur Identifikation von Abweichungen. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Anomaly%20Detection.aspx> Mehr... </a> </p>"
 Internet of Things (IOT),Ausprobieren,Technologien,WAHR,	
