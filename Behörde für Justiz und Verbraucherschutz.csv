@@ -15,12 +15,13 @@ Analytics Überall,Ausprobieren,Methoden,FALSCH,"<p>Analytics überall verfolgt 
 Digitaler Arbeitsplatz,Anwenden,Methoden,FALSCH,"<p>Der digitale Arbeitsplatz wird zum Wettbewerbsvorteil oder Nachteil im Kampf um Talente/Fachkräfte. Bereits heute wird die Chance auf eine optimierte Digital Employee Experience beziehungsweise das digitale Erlebnis des Mitarbeiters mit seinem Arbeitgeber mit automatisiertem Onboarding am ersten Arbeitstag eines Mitarbeiters genutzt: Wenn Prozesse an dieser Stelle einfach und angenehm sind, ist ein positiver Start in den neuen Job gewährleistet. Für eine nachhaltig gute Nutzererfahrung greifen Mitarbeiter zu jeder Zeit, von jedem Gerät und von jedem Ort ausnahtlos auf Apps und Daten zu. Im Hintergrund wird digitales Arbeiten quasi unsichtbar für den Mitarbeiter sicher gestaltet, in dem Daten ver- und entschlüsselt werden beziehungsweise Schutz vor Malware über Verhaltensanalysen kontinuierlich sichergestellt wird. </p>"	
 Engagement auf allen Kanälen,Ausprobieren,Methoden,FALSCH,"<p>Behörden sollen mit den Bürgern zu ihren eigenen Bedingungen und über ihre bevorzugten Kanäle kommunizieren, beispielsweise persönlich, telefonisch, über mobile Geräte, über intelligente Lautsprecher, Chatbots oder über Augmented Reality. Laut einer Umfrage aus dem Jahr 2018 werden bereits mehr als 50 Prozent der Bürgeranfragen über mobile Endgeräten abgewickelt.</p>"	
 Digitales Produktmanagement (DPM),Ausprobieren,Methoden,FALSCH,"<p>DPM ersetzt häufig einen "Wasserfallâ€œ-Projektmanagementansatz, der eine schlechte Erfolgsbilanz aufweist, und umfasst die Entwicklung, Bereitstellung, Überwachung, Verfeinerung und Stilllegung von "Produktenâ€œ oder Angeboten für Unternehmer oder Bürger. Dies führe dazu, dass Unternehmen anders denken und greifbare Ergebnisse schneller und nachhaltiger erzielen.</p>"	
-IBM Watson,Ausprobieren,Plattformen,WAHR,	
-Microsoft Cortana Suite,Ausprobieren,Plattformen,WAHR,	
+Low Code,Ausprobieren,Technologien,WAHR,"<p>Anwendungen, die die Erstellung von Software mittels einer grafischen Entwicklungsumgebung ermöglichen.. <a href=https://fhhportal.ondataport.de/websites/digitaleInno_109/Technologieradar%20Inhalte/Low%20Code.aspx> Mehr... </a> </p>"
 Adaptive Sicherheit,Anwenden,Methoden,FALSCH,"<p>Ein anpassungsfähiger Sicherheitsansatz behandelt Risiko, Vertrauen und Sicherheit als einen kontinuierlichen und adaptiven Prozess, der den sich ständig weiterntwickelnden Cyberbedrohungen vorgreift und diese abschwächt. Dabei wird berücksichtigt, dass es keinen perfekten Schutz gibt und die Sicherheit jederzeit und überall angepasst werden muss.</p>"	
 Kofax,Beobachten,Plattformen,FALSCH,"<p>Kofax intelligent automation ist eine Softwareplattform, die informationsintensive Geschäftsabläufe durchgängig digitalisiert, automatisiert und transformiert.</p>"
 ShareGate,Beobachten,Tools,FALSCH,"<p>Mit ShareGate können Inhalte der SharePoint Versionen 2003, 2007, 2010, 2013, 2016 und Microsoft 365 zu einer beliebig kompatiblen SharePoint Version migriert werden.</p>"
 Codefy,Ausprobieren,Tools,FALSCH,"<p>Mit der Codefy lassen sich Ausschreibungen, Verträge und andere Dokumente im großen Umfang effizient und gründlich analysieren, prüfen kommentieren, u.v.m.</p>"
+IBM Watson,Ausprobieren,Plattformen,WAHR,	
+Microsoft Cortana Suite,Ausprobieren,Plattformen,WAHR,	
 Big Data,Anwenden,Technologien,FALSCH,	
 Business Intelligence (BI),Anwenden,Technologien,FALSCH,	
 Data Mining,Anwenden,Methoden,FALSCH,	
@@ -36,7 +37,6 @@ Natural Language Understanding (NLU),Ausprobieren,Technologien,WAHR,
 Neuronale Netze,Beobachten,Technologien,WAHR,	
 Optical Character Recognition (OCR),Anwenden,Technologien,FALSCH,	
 Application Programming Interface (API),Ausprobieren,Methoden,FALSCH,	
-Low Code,Ausprobieren,Technologien,WAHR,	
 Digitalstrategien,Anwenden,Methoden,FALSCH,	
 Prozessdesign und -optimierung,Anwenden,Methoden,FALSCH,	
 IT-Sicherheit,Anwenden,Methoden,FALSCH,	
